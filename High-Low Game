@@ -1,4 +1,5 @@
 //Stephanie Lab Group #2
+//High-Low Game
 #include <iostream>
 #include <ctime>
 #include <time.h>
