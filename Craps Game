@@ -1,4 +1,5 @@
 //Stephanie Lab Group #2
+//Craps Game
 #include <iostream>
 #include <ctime>
 #include <windows.h>
